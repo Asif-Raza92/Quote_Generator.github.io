@@ -1,6 +1,6 @@
 # Quote_Generator.github.io
  
-
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
 A simple, visually appealing web application that displays random quotes with a dynamic, responsive particle background and a button to tweet the displayed quote.
 
 ## Features
